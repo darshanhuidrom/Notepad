@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_title_home">Notes</string>
+    <string name="msg_no_notes">No notes found!</string>
+    <string name="lbl_new_note_title">New Note</string>
+    <string name="hint_enter_note">Enter your note!</string>
+
+    <string name="permission_alert_dialog_title">Important</string>
+    <string name="permission_dialog_message">This app requires phone permission</string>
+    <string name="action_ok">OK</string>
+    <string name="take_barcode_picture">Take Picture</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="send_email">SEnd Email</string>
+</resources>
