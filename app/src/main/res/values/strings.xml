@@ -13,4 +13,8 @@
     <string name="scan_barcode">Scan Barcode</string>
     <string name="open_camera">Open Camera</string>
     <string name="send_email">SEnd Email</string>
+    <string name="client_id">611676730602-0i4n51ghn1khtsd13glgfn480qspch1s.apps.googleusercontent.com</string>
+    <string name="client_secret">YQqA_riEVEzSSO9J_1fWtfLl</string>
+
+
 </resources>

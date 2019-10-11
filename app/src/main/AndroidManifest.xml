@@ -10,10 +10,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".view.EmailActivity"></activity>
+
+        <activity android:name=".view.BarcodeActivity" />
+        <activity android:name=".view.EmailActivity" />
         <activity android:name=".view.ScanBarcodeActivity" />
         <activity android:name=".view.PictureBarcodeActivity" />
-        <activity android:name=".view.BarcodeActivity">
+        <activity android:name=".view.FingerPrintLogInActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -61,5 +63,5 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <uses-permission android:name="android.permission.INTERNET" />
-
+    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
 </manifest>
